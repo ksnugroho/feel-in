@@ -1,7 +1,7 @@
 **Hyperparameter:**
 - NUM_OF_EPOCHS = 4
 - BATCH_SIZE = 32
-- LEARNING_RATE (AdamW) = 2e-5, β1 = 0.8, β1 $\beta _{1}$
+- LEARNING_RATE (AdamW) = 2e-5, $\beta_{1}$ = 0.8,  $\beta_{2}$ = 0.9, $L2$ = 0.0001
 
 **Result:**
 
