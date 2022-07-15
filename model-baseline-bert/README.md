@@ -1,3 +1,8 @@
+Hyperparameter:
+- NUM_OF_EPOCHS = 4
+- BATCH_SIZE = 32
+- LEARNING_RATE (AdamW) = 2e-5, β1 \beta _{1}
+
 | pre-trained name                       | accuracy | val_accuracy | loss  | val_loss | runtime |
 |----------------------------------------|----------|--------------|-------|----------|---------|
 | indobenchmark/indobert-base-p1-uncased | 0.893    | 0.795        | 0.337 | 0.683    | 7m 56s  |
