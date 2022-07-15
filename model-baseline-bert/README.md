@@ -12,6 +12,7 @@
 | indolem/indobert-base-uncased          | 0.730    | 0.837        | 0.890 | 0.540    | 6m 54s  |
 | indolem/indobertweet-base-uncased      | 0.872    | 0.853        | 0.428 | 0.482    | 7m 2s   |
 | bert-based-uncased                     | 0.778    | 0.784        | 0.772 | 0.707    | 5m 50s  |
+| malay-bert-cased                       | 0.872    | 0.812        | 0.407 | 0.626    | 6m 54s  |
 
 **Training Report:**
 
