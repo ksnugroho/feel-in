@@ -1,5 +1,10 @@
 # Result
 
+## Hyperparameter
+NUM_OF_EPOCHS = 20
+BATCH_SIZE = 16
+LEARNING_RATE (Adam) = 1e-3
+
 ## Summary
 | word-embedding        | architecture | accuracy | val_accuracy | loss  | val_loss | best_epoch | runtime |
 |-----------------------|--------------|----------|--------------|-------|----------|------------|---------|
@@ -13,3 +18,4 @@
 | FastText ID Tweet 300 | Bi GRU       | 0.816    | 0.826        | 0.574 | 0.579    | 8          | 58s     |
 
 ## Training Report
+https://wandb.ai/indoemobert/baseline-bilstm/reports/Baseline-Model-Report-Word-Embedding-Bi-LSTM-Bi-GRU--VmlldzoyMTA5MTEw?accessToken=qhxjx3xi37mv6xwk474ta9bnfpdgk0k79e2cqusrnm072mqmrlxdy7gxsxalq5k7
