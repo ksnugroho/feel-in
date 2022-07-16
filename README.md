@@ -1,4 +1,4 @@
-# feel-in: emotion detection in indonesian text
+# FEEL-IN: Emotion Detection in Indonesian Text
 
 Kuncahyo Setyo Nugroho<br>
 Supervisor:
