@@ -6,7 +6,6 @@
 - LEARNING_RATE (AdamW) = 2e-5, $\beta_{1}$ = 0.8,  $\beta_{2}$ = 0.9, $L2$ = 0.0001
 
 ## Summary
-
 | pre-trained model                       | accuracy | val_accuracy | loss  | val_loss | runtime |
 |----------------------------------------|----------|--------------|-------|----------|---------|
 | indobenchmark/indobert-base-p1-uncased | 0.893    | 0.795        | 0.337 | 0.683    | 7m 56s  |
@@ -16,6 +15,8 @@
 | bert-based-uncased                     | 0.778    | 0.784        | 0.772 | 0.707    | 5m 50s  |
 | malay-bert-cased                       | 0.872    | 0.812        | 0.407 | 0.626    | 6m 54s  |
 
-## Training Report
+## Best Model Metric
+![alt text](https://raw.githubusercontent.com/ksnugroho/feel-in/main/assets/best-baseline-model-bert-metric.jpg)
 
+## Training Report
 https://wandb.ai/indoemobert/baseline-bert/reports/Model-Baseline-Report-BERT-Fine-Tuning--VmlldzoyMzIzOTYx?accessToken=4vgoktwfk4rxwcd9akq4whiohgjl1bhzr7wwbi1hvu8xa0zamohh2x5f10ocr107
