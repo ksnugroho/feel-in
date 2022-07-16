@@ -13,7 +13,7 @@
 - HIERARCHICAL_SOFTMAX = False
 
 ## Usage Example
-```
+```python
 !pip install gensim
 
 WORD_EMBEDDING_PATH = 'idwiki-word2vec/idwiki-word2vec-300.wordvectors'
