@@ -15,6 +15,7 @@ HIERARCHICAL_SOFTMAX = False
 ```
 
 ## Usage Example
+Pre-trained word embedding can be downloaded [here]([https://univindonesia-my.sharepoint.com/:f:/g/personal/mei_silviana_office_ui_ac_id/EkwS7R4C2F9FnYHVLvvkmeoBGRpJ3abNa7Lti9ceG2TWFw?e=dRzvmG](https://drive.google.com/drive/folders/1JltoIVFq0lfBqV7vlNkoCz9wztfU_unf?usp=sharing)).
 ```python
 !pip install gensim
 
