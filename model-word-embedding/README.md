@@ -2,7 +2,7 @@
 
 ## Dataset
 1. ID Wiki = 462.462 articles from Indonesia Wikipedia Dunmp (https://dumps.wikimedia.org/)
-2. ID Tweet = 
+2. ID Tweet = 3.126.986 Indonesia Tweet
 
 ## Parameter
 - EMBEDDING_SIZE = 300
@@ -24,6 +24,9 @@ vocabulary = word2vec.index_to_key    # gensim 4
 
 VOCAB_SIZE = len(vocabulary)
 EMBEDDING_SIZE = word2vec.vector_size
+
+word = 'saya'
+print(word2vec[word])
 ```
 
 ## License
