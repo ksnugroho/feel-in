@@ -5,7 +5,7 @@
 
 **Result:**
 
-| pre-trained name                       | accuracy | val_accuracy | loss  | val_loss | runtime |
+| pre-trained model                       | accuracy | val_accuracy | loss  | val_loss | runtime |
 |----------------------------------------|----------|--------------|-------|----------|---------|
 | indobenchmark/indobert-base-p1-uncased | 0.893    | 0.795        | 0.337 | 0.683    | 7m 56s  |
 | indobenchmark/indobert-base-p2-uncased | 0.886    | 0.812        | 0.358 | 0.627    | 7m 22s  |
