@@ -5,7 +5,7 @@
 - BATCH_SIZE = 32
 - LEARNING_RATE (AdamW) = 2e-5, $\beta_{1}$ = 0.8,  $\beta_{2}$ = 0.9, $L2$ = 0.0001
 
-## Sumarry
+## Summary
 
 | pre-trained model                       | accuracy | val_accuracy | loss  | val_loss | runtime |
 |----------------------------------------|----------|--------------|-------|----------|---------|
