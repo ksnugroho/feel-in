@@ -1,7 +1,7 @@
 # Indonesian Pre-Trained Word Embedding (Word2Vec & FastText)
 
 ## Dataset
-1. ID Wiki = 462.462 articles from Indonesia Wikipedia Dunmp (https://dumps.wikimedia.org/)
+1. ID Wiki = 462.462 articles from Indonesia Wikipedia Dump (https://dumps.wikimedia.org/)
 2. ID Tweet = 3.126.986 Indonesia Tweet
 
 ## Parameter
