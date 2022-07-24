@@ -16,14 +16,10 @@
 | malay-bert-cased                       | 0.872    | 0.812        | 0.407 | 0.626    | 6m 54s  |
 
 ## References
-[][1] 
-J. Devlin, M.-W. Chang, K. Lee, and K. Toutanova, “BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,” arXiv.org, 2018, doi: [10.48550/arXiv.1810.04805](https://arxiv.org/abs/1810.04805).<br>
-<a id="2">[2]</a>
-B. Wilie et al., “IndoNLU: Benchmark and Resources for Evaluating Indonesian Natural Language Understanding,” arXiv.org, 2020, doi: [10.48550/arXiv.2009.05387](https://arxiv.org/abs/2009.05387).<br>
-<a id="3">[3]</a>
-F. Koto, A. Rahimi, J. H. Lau, and T. Baldwin, “IndoLEM and IndoBERT: A Benchmark Dataset and Pre-trained Language Model for Indonesian NLP,” arXiv.org, 2020, doi: [10.48550/arXiv.2011.00677](https://arxiv.org/abs/2011.00677).<br>
-<a id="4">[4]</a>
-F. Koto, J. H. Lau, and T. Baldwin, “IndoBERTweet: A Pretrained Language Model for Indonesian Twitter with Effective Domain-Specific Vocabulary Initialization,” arXiv.org, 2021, doi: [10.48550/arXiv.2109.04607](https://arxiv.org/abs/2109.04607).
+1.  J. Devlin, M.-W. Chang, K. Lee, and K. Toutanova, “BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,” arXiv.org, 2018, doi: [10.48550/arXiv.1810.04805](https://arxiv.org/abs/1810.04805).<br>
+2. B. Wilie et al., “IndoNLU: Benchmark and Resources for Evaluating Indonesian Natural Language Understanding,” arXiv.org, 2020, doi: [10.48550/arXiv.2009.05387](https://arxiv.org/abs/2009.05387).<br>
+3. F. Koto, A. Rahimi, J. H. Lau, and T. Baldwin, “IndoLEM and IndoBERT: A Benchmark Dataset and Pre-trained Language Model for Indonesian NLP,” arXiv.org, 2020, doi: [10.48550/arXiv.2011.00677](https://arxiv.org/abs/2011.00677).<br>
+4. F. Koto, J. H. Lau, and T. Baldwin, “IndoBERTweet: A Pretrained Language Model for Indonesian Twitter with Effective Domain-Specific Vocabulary Initialization,” arXiv.org, 2021, doi: [10.48550/arXiv.2109.04607](https://arxiv.org/abs/2109.04607).
 ‌
 ‌
 ## Best Model Metric
