@@ -17,7 +17,7 @@
 
 ## References
 <a id="1">[1]</a> 
-J. Devlin, M.-W. Chang, K. Lee, and K. Toutanova, “BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,” arXiv.org, 2018, doi: 10.48550/arXiv.1810.04805.
+J. Devlin, M.-W. Chang, K. Lee, and K. Toutanova, “BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,” arXiv.org, 2018, doi: [10.48550/arXiv.1810.04805](https://arxiv.org/abs/1810.04805).<br>
 <a id="2">[2]</a>
 F. Koto, A. Rahimi, J. H. Lau, and T. Baldwin, “IndoLEM and IndoBERT: A Benchmark Dataset and Pre-trained Language Model for Indonesian NLP,” arXiv.org, 2020, doi: 10.48550/arXiv.2011.00677.
 ‌
