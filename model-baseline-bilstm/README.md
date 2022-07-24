@@ -17,6 +17,10 @@
 | FastText ID Tweet 300 | Bi LSTM      | 0.813    | 0.828        | 0.593 | 0.606    | 8          | 1m 5s   |
 | FastText ID Tweet 300 | Bi GRU       | 0.816    | 0.826        | 0.574 | 0.579    | 8          | 58s     |
 
+## References
+1. K. S. Nugroho, I. Akbar, A. N. Suksmawati, and I. Istiadi, “Deteksi Depresi dan Kecemasan Pengguna Twitter Menggunakan Bidirectional LSTM,” Conference on Innovation and Application of Science and Technology (CIASTECH), vol. 0, no. 0, pp. 287–296, 2018, Accessed: Jul. 24, 2022. Available: http://publishing-widyagama.ac.id/ejournal-v2/index.php/ciastech/article/view/3321
+
+
 ## Best Model Metric
 ![alt text](https://raw.githubusercontent.com/ksnugroho/feel-in/main/assets/best-baseline-model-bilstm-metric.jpg)
 
