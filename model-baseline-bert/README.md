@@ -16,7 +16,7 @@
 | malay-bert-cased                       | 0.872    | 0.812        | 0.407 | 0.626    | 6m 54s  |
 
 ## References
-<a id="1">[1]</a> 
+[][1] 
 J. Devlin, M.-W. Chang, K. Lee, and K. Toutanova, “BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,” arXiv.org, 2018, doi: [10.48550/arXiv.1810.04805](https://arxiv.org/abs/1810.04805).<br>
 <a id="2">[2]</a>
 B. Wilie et al., “IndoNLU: Benchmark and Resources for Evaluating Indonesian Natural Language Understanding,” arXiv.org, 2020, doi: [10.48550/arXiv.2009.05387](https://arxiv.org/abs/2009.05387).<br>
