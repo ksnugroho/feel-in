@@ -15,6 +15,12 @@
 | bert-based-uncased                     | 0.778    | 0.784        | 0.772 | 0.707    | 5m 50s  |
 | malay-bert-cased                       | 0.872    | 0.812        | 0.407 | 0.626    | 6m 54s  |
 
+## References
+<a id="1">[1]</a> 
+Dijkstra, E. W. (1968). 
+Go to statement considered harmful. 
+Communications of the ACM, 11(3), 147-148.
+
 ## Best Model Metric
 ![alt text](https://raw.githubusercontent.com/ksnugroho/feel-in/main/assets/best-baseline-model-bert-metric.jpg)
 
