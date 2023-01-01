@@ -12,3 +12,6 @@
 | lexicon-based annotation | SVC                     | 0.8813   | 0.8858   | 0.6125   | 0.6057   |
 |                          | MultinomialNB           | 0.7152   | 0.7294   | 0.3808   | 0.3338   |
 |                          | KNeighborsClassifier    | 0.5351   | 0.4809   | 0.3363   | 0.2548   |
+
+## Experimental Report
+https://wandb.ai/indoemobert/model-baseline-machine-learning/reports/Experimental-Report-Baseline-Machine-Learning---VmlldzozMjQ2MDkw?accessToken=w1frr931oslx1803dyjh55asm0w13i1ju3z8go02xx3bkk45nhc0anti335jes9h
