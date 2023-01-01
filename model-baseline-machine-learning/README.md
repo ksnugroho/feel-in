@@ -1,14 +1,125 @@
 # Result
 
 ## Summary
-| dataset                  | method                  | Train    |          | Test     |          |
-| ------------------------ | ----------------------- | -------- | -------- | -------- | -------- |
-|                          |                         | accuracy | f1-score | accuracy | f1-score |
-| human annotation         | DecisionTrain Clasifier | 0.9955   | 0.9955   | 0.784    | 0.7838   |
-| ^                        | SVC                     | 0.9431   | 0.9438   | 0.7639   | 0.7651   |
-|                         | MultinomialNB           | 0.8629   | 0.8665   | 0.6147   | 0.5704   |
-|                         | KNeighborsClassifier    | 0.5167   | 0.4888   | 0.3497   | 0.2795   |
-| lexicon-based annotation | DecisionTrain Clasifier | 0.9972   | 0.9972   | 0.6392   | 0.6403   |
-| ^                        | SVC                     | 0.8813   | 0.8858   | 0.6125   | 0.6057   |
-|                         | MultinomialNB           | 0.7152   | 0.7294   | 0.3808   | 0.3338   |
-|                         | KNeighborsClassifier    | 0.5351   | 0.4809   | 0.3363   | 0.2548   |
+<table>
+    <tr>
+        <td>dataset</td>
+        <td>method</td>
+        <td>Train</td>
+        <td></td>
+        <td>Test</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>accuracy</td>
+        <td>f1-score</td>
+        <td>accuracy</td>
+        <td>f1-score</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>human annotation</td>
+        <td>DecisionTrain Clasifier</td>
+        <td>0.9955</td>
+        <td>0.9955</td>
+        <td>0.784</td>
+        <td>0.7838</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>SVC</td>
+        <td>0.9431</td>
+        <td>0.9438</td>
+        <td>0.7639</td>
+        <td>0.7651</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>MultinomialNB</td>
+        <td>0.8629</td>
+        <td>0.8665</td>
+        <td>0.6147</td>
+        <td>0.5704</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>KNeighborsClassifier</td>
+        <td>0.5167</td>
+        <td>0.4888</td>
+        <td>0.3497</td>
+        <td>0.2795</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>lexicon-based annotation</td>
+        <td>DecisionTrain Clasifier</td>
+        <td>0.9972</td>
+        <td>0.9972</td>
+        <td>0.6392</td>
+        <td>0.6403</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>SVC</td>
+        <td>0.8813</td>
+        <td>0.8858</td>
+        <td>0.6125</td>
+        <td>0.6057</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>MultinomialNB</td>
+        <td>0.7152</td>
+        <td>0.7294</td>
+        <td>0.3808</td>
+        <td>0.3338</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>KNeighborsClassifier</td>
+        <td>0.5351</td>
+        <td>0.4809</td>
+        <td>0.3363</td>
+        <td>0.2548</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
