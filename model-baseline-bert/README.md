@@ -17,10 +17,14 @@
 
 ## References
 1.  J. Devlin, M.-W. Chang, K. Lee, and K. Toutanova, “BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,” arXiv.org, 2018, doi: [10.48550/arXiv.1810.04805](https://arxiv.org/abs/1810.04805).<br>
+https://huggingface.co/bert-base-uncased<br>
 2. B. Wilie et al., “IndoNLU: Benchmark and Resources for Evaluating Indonesian Natural Language Understanding,” arXiv.org, 2020, doi: [10.48550/arXiv.2009.05387](https://arxiv.org/abs/2009.05387).<br>
-3. F. Koto, A. Rahimi, J. H. Lau, and T. Baldwin, “IndoLEM and IndoBERT: A Benchmark Dataset and Pre-trained Language Model for Indonesian NLP,” arXiv.org, 2020, doi: [10.48550/arXiv.2011.00677](https://arxiv.org/abs/2011.00677).<br>
-4. F. Koto, J. H. Lau, and T. Baldwin, “IndoBERTweet: A Pretrained Language Model for Indonesian Twitter with Effective Domain-Specific Vocabulary Initialization,” arXiv.org, 2021, doi: [10.48550/arXiv.2109.04607](https://arxiv.org/abs/2109.04607).
-‌
+https://huggingface.co/indobenchmark/indobert-base-p1 | https://huggingface.co/indobenchmark/indobert-base-p2<br>
+4. F. Koto, A. Rahimi, J. H. Lau, and T. Baldwin, “IndoLEM and IndoBERT: A Benchmark Dataset and Pre-trained Language Model for Indonesian NLP,” arXiv.org, 2020, doi: [10.48550/arXiv.2011.00677](https://arxiv.org/abs/2011.00677).<br>
+https://huggingface.co/indolem/indobert-base-uncased<br>
+5. F. Koto, J. H. Lau, and T. Baldwin, “IndoBERTweet: A Pretrained Language Model for Indonesian Twitter with Effective Domain-Specific Vocabulary Initialization,” arXiv.org, 2021, doi: [10.48550/arXiv.2109.04607](https://arxiv.org/abs/2109.04607).<br>
+https://huggingface.co/indolem/indobertweet-base-uncased<br>
+5. https://huggingface.co/malay-huggingface/bert-base-bahasa-cased/tree/main
 ‌
 ## Best Model Metric
 ![alt text](https://raw.githubusercontent.com/ksnugroho/feel-in/main/assets/best-baseline-model-bert-metric.jpg)
